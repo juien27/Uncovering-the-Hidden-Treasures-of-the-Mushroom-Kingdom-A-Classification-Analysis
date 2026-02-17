@@ -122,5 +122,5 @@ AI-MUSHROOM-CLASSIFICATION/
 
 👩‍💻 Author
 
-Kajal Sankapal  
+Juien Mujawar
 AIML Student | Deep Learning Enthusiast
